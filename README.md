@@ -1,2 +1,3 @@
 # Jezec
-updated for actionfi
+updating for pull requests 
+updating for pull requests 
