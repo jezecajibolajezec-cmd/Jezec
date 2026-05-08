@@ -1,2 +1,2 @@
 # Jezec
-updating actionmodel for pull request
+updating actionmodel
