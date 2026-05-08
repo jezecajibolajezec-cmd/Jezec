@@ -1,2 +1,2 @@
 # Jezec
-Learning github
+updated for actionfi
