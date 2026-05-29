@@ -1,3 +1,7 @@
 # Jezec
-updating actionmodel
+2patct update 
+action model initial task
+actions readings
+
+
 
